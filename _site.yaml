@@ -20,3 +20,6 @@ categories:
 - id: "partners"
   title: "Partners"
   path: "/partners/"
+- id: "resources"
+  title: "Resources"
+  path: "/resources"
